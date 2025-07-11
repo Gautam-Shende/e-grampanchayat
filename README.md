@@ -63,4 +63,4 @@ The **Digital E-Gram Panchayat** project aims to digitize the application proces
 
 ### 🔗 Quick Links  
 - [Live Demo](https://e-grampanchayat-1de48.firebaseapp.com/) 
-- [GitHub Repo](#) (Add your repo link)  
+- [GitHub Repo](https://github.com/Gautam-Shende/e-grampanchayat.git) 
